@@ -313,7 +313,7 @@ pnpm.cmd build
 
 ## 🌏 社区与友情链接
 
-- [LINUX DO](https://linux.do) —— 真诚、友善、团结、专业。本项目在 [LINUX DO地址](https://linux.do/t/topic/2791574)) 社区发布与交流，欢迎前往讨论反馈。
+- [LINUX DO](https://linux.do) —— 真诚、友善、团结、专业。本项目在 [LINUX DO地址](https://linux.do/t/topic/2791574) 社区发布与交流，欢迎前往讨论反馈。
 
 ---
 
